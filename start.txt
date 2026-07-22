@@ -1,2 +1,2 @@
 Push and pull is a quite difficult process.
-First git init, git remote add origin link, git clone link, git add
+First git init, git remote add origin link, git clone link, git add file name, git commit -m "some message", git config user.email "email" and git config user.name "name", git push -u origin main, giving Token, git pull.
